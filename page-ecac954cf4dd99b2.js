@@ -196,7 +196,7 @@
                             }), (0,
                             t.jsx)("code", {
                                 className: "font-mono bg-gray-50 px-3 py-1 rounded-lg",
-                                children: "pumpfungay"
+                                children: "`pumpfungay`"
                             })]
                         })]
                     })
